@@ -1,0 +1,29 @@
+{
+  "name": "Aibar",
+  "version": "1.0.0",
+  "description": "A library that helps you calculate the sum of any 2 numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "sum-haxor": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adza404/Aibar.git"
+  },
+  "homepage": "https://github.com/adza404/Aibar",
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "Aibar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adza404/Aibar/issues"
+  }
